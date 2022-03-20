@@ -31,7 +31,7 @@ const HowItWorks = (props) => (
       <GridCell style={{ padding: '2em', textAlign: 'center' }}>
         <H3 font="secondary">how to pre-order</H3>
 
-        <p style={{ marginTop: '1em', color: grey2 }}> สั่งจองสินค้าจากทางร้าน
+        <p style={{ marginTop: '1em', color: grey2 }}> สั่งจองสินค้าจากทางร้านของเรา
          </p>
       </GridCell>
     </Grid>
