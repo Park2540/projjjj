@@ -38,7 +38,7 @@ const Home = (props) => (
 
       {/* Content */}
       <GridCell>
-        <H1  font="secondary" style={{ textShadow: textLevel1 , color: grey4 }}>One piece model  </H1> 
+        <H1  font="secondary" style={{ textShadow: textLevel1 , color: grey4 }}>One Piece model  </H1> 
 
         <H4 style={{ textShadow: textLevel1, color: grey4 , marginTop: '0.5em' }}>
           สวัสดีลูกค้าทุกท่าน ยินดีต้อนรับเข้าสู่ร้าน one piece model 
