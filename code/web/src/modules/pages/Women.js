@@ -53,7 +53,7 @@ const Women = (props) => (
       <H2 font="secondary">One piece model woman</H2>
 
       <H5 style={{ marginTop: '0.5em' }}>
-       งานคุณภาพ Modelสวยน่ารัก สินค้าของแท้ราคาถูก เป็นสินค้าpre-order นำเข้า 100%
+       งานคุณภาพ Modelสวยน่ารัก สินค้าของแท้ราคาถูก เป็นสินค้าPRE-ORDER นำเข้า 100%
       </H5>
 
       {/* Call to action */}
